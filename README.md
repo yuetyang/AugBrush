@@ -29,7 +29,7 @@ Download AugBrush checkpoint:
 
 
 
-Download DINOv2 checkpoint and revise `/configs/anydoor.yaml` for the path (line 83)
+Download DINOv2 checkpoint 
 * URL: https://github.com/facebookresearch/dinov2?tab=readme-ov-file
 
 Download Stable Diffusion V2.1 if you want to train from scratch.
